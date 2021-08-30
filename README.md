@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jetzemeilink
 - 👀 I’m interested in lots of things related to coding
-- 🌱 I’m currently learning docker, Laravel
+- 🌱 I’m currently building my own projects
 - 📫 How to reach me jetzemeilink@gmail.com
 - Now and then I like to level up my CSS skills -> [Codepen](https://codepen.io/Djeeuutoane)
 
